@@ -37,7 +37,7 @@ Welcome to the Simple E-commerce System! This is a console-based shopping cart a
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/simple-ecommerce-system.git
+   git clone https://github.com/krupaliChotaliya/CodeClauseInternship_EcommerceShoppingCart.git
    cd simple-ecommerce-system
    ```
 
